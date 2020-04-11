@@ -1,6 +1,6 @@
 # Sentiment-Analysis-on-Amazon-Fine-Food-Reviews
 
-this repository contain my algorithms emplemntaion on amazon fine food reviews dataset
+This repository contain my algorithms emplemntaion on amazon fine food reviews dataset
 
 The following models were tesed:
 1. Support vector machines with different kernels.
