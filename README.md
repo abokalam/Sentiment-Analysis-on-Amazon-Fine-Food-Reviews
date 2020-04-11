@@ -11,4 +11,4 @@ The following models were tesed:
 6. Truncated Support vector machines.
 7. Naive bayes
 8. PCA
-9. Extra tree
+9. Decision tree
